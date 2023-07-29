@@ -22,8 +22,8 @@ I coded additional input areas in the Streamlit application to capture the sende
 
 <h5>Step 4: Test the PyChain Ledger by Storing Records</h5>
 How to Run the Streamlit Application<br>
-1. In the terminal, navigate to the project folder where you've coded this assignment.<br>
-2. In the terminal, run the Streamlit application by using streamlit run pychain.py.<br>
+1. In the terminal, navigate to the project folder.<br>
+2. In the terminal, run the Streamlit application by using streamlit run pychain1.py.<br>
 3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. Do this several times to store several blocks in the ledger.<br>
 4. Verify the block contents and hashes in the Streamlit dropdown menu.<br>
 
