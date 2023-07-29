@@ -27,12 +27,14 @@ How to Run the Streamlit Application<br>
 3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. Do this several times to store several blocks in the ledger.<br>
 4. Verify the block contents and hashes in the Streamlit dropdown menu.<br>
 
-<br>
-<h5>Screenshots</h5>
+## Screenshots
+
 ![The Pychain Ledger](https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot1.png) <br>
-![Block Inspector 1](https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot2.png) <br>
-![Block Inspector 2](https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot3.png) <br>
-![Block Inspector 3](https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot4.png) <br>
+<br>
+Block Inspector Records: <br>
+(https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot2.png) <br>
+(https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot3.png) <br>
+(https://github.com/Isabel-SIM/WEEK-EIGHTEEN-HOMEWORK/blob/main/IMAGES/Screenshot4.png) <br>
 
 <br>
 
